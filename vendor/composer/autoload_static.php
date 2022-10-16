@@ -36,6 +36,10 @@ class ComposerStaticInit86120c1ff4bb807faf2f6e8a20deebc4
             'Illuminate\\Contracts\\' => 21,
             'Illuminate\\Container\\' => 21,
         ),
+        'G' => 
+        array (
+            'Glasses\\' => 8,
+        ),
         'F' => 
         array (
             'FastRoute\\' => 10,
@@ -44,10 +48,6 @@ class ComposerStaticInit86120c1ff4bb807faf2f6e8a20deebc4
         array (
             'Doctrine\\Inflector\\' => 19,
             'Doctrine\\Common\\Inflector\\' => 26,
-        ),
-        'C' => 
-        array (
-            'Chatter\\' => 8,
         ),
     );
 
@@ -104,6 +104,10 @@ class ComposerStaticInit86120c1ff4bb807faf2f6e8a20deebc4
         array (
             0 => __DIR__ . '/..' . '/illuminate/container',
         ),
+        'Glasses\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Glasses',
+        ),
         'FastRoute\\' => 
         array (
             0 => __DIR__ . '/..' . '/nikic/fast-route/src',
@@ -115,10 +119,6 @@ class ComposerStaticInit86120c1ff4bb807faf2f6e8a20deebc4
         'Doctrine\\Common\\Inflector\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/inflector/lib/Doctrine/Common/Inflector',
-        ),
-        'Chatter\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src/Chatter',
         ),
     );
 
